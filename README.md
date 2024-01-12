@@ -67,7 +67,6 @@ I'm a passionate Software Engineer with 5 years of experience specializing in Ja
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpriyesh&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpriyesh)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarpriyesh)
 
 ## 📫 How to reach me:
