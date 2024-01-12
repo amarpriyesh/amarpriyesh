@@ -1,65 +1,107 @@
-# Hello, I'm [Priyesh]! 👋
+# Hello, I'm Priyesh! 👋
 
 ## 🚀 About Me
 I'm a passionate Software Engineer with 5 years of experience specializing in Java, Python, JavaScript, and C++. I love building scalable software solutions and am always eager to learn new technologies and best practices.
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-... [Add badges for other technologies and tools you use]
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+
+
 
 ## 🌱 I’m currently learning ...
 - Currently enhancing my skills in Machine Learning, React, etc.
 - Exploring Cloud Computing, Microservices, and Infrastructure automation using terraforms.
 
-## 💼 Technical Experience
-- **Software Engineer at Charles River Development** (Jul 2022 - Dec 2022)
-  - Followed test driven approach to develop a simulator module in Java to replicate FIX initiator using quickfixj library to produce simulated BUY/SELL order singles, minimizing discrepancies related to incomplete data instances by 10%.
--	Migrated from ant-based build to Gradle build for better dependency management and moved version control from perforce to GitHub to facilitate collaboration, flexibility, and streamline the CI/CD pipeline through Azure integration.
+## 💼 Experience Highlights
+- **Software Development Intern at Charles River Development, Boston, MA (Jul 2022 - Dec 2022)**
+  - Developed a Java-based simulator module, reducing data discrepancies by 10%.
+  - Transitioned build system to Gradle and version control to GitHub, enhancing CI/CD pipeline efficiency through Azure.
+  - Built a Java log analyzer to improve FIX message processing, boosting performance testing by 90%.
+  - Collaborated in a team for enhancing IHUB Java modules and implemented TDD/BDD methods.
 
-- **Senior Engineer at Hughes Systique** (Jul 2020 - Aug 2021)
-  - Created a web application leveraging React to display various API responses cutting down post-deployment regression testing time by 80% and employed Site 24x7 tool to monitor availability of API services enabling the team to debug API issues.
-- Utilized user input to enhance interface of a Node & React based self-care web application, resulting in a 40% decrease in support tickets related to API interactions, demonstrating a strong focus on user-centric design and continuous improvement.
-- Utilized Redux Thunks for asynchronous API interactions, enhancing user-specific state management and code debuggability.
-- Engineered and deployed a scalable Python/Flask-based AI microservice for POC using Docker on AWS ECS, effectively identifying spam messages. Integrated successfully with a .NET (C#) backend via REST APIs, showcasing cross-platform compatibility.
+- **Senior Engineer at Hughes Systique, Gurgaon, India (Jul 2020 - Aug 2021)**
+  - Created a React web application, reducing testing time by 80%.
+  - Enhanced a Node & React self-care application, decreasing support tickets by 40%.
+  - Deployed a Python/Flask AI microservice on AWS ECS, demonstrating cross-platform integration.
 
-- **Software Engineer at Ericsson** (Nov 2015 - May 2020)
-- Implemented over 20 features using JavaScript and rapid application development techniques to create a ticketing application, Micro-focus Service Manager. This enhanced IT service management processes, including Incident, Problem, and Change Management.
-- Utilized Java Spring boot framework to architect backend solution implementing a Trouble-Ticket to Event integration through restful APIs, schemas, log-parser, triggers, and processes, resulting in a 30% reduction in event resolution time.
-- Lead deployment releases, making significant contribution to scrum meetings, code review, sprint planning, and retrospectives in compliance with Agile SDLC principles, additionally lead team building activities to foster problem-solving and communication.
+- **Software Engineer at Ericsson, Noida, India (Nov 2015 - May 2020)**
+  - Implemented 20+ features in a JavaScript-based ticketing application, enhancing IT service management.
+  - Architected a Java Spring Boot backend solution for Trouble-Ticket to Event integration, cutting event resolution time by 30%.
+  - Integrated CRM with service manager application, improving ticket routing efficiency by 20%.
+  - Automated production activities with bash scripting, saving 80 hours weekly.
+
+## 🌱 I’m currently learning ...
+- Cloud technologies, microservices architecture.
+- Advanced AI and machine learning concepts.
+
+## 📚 Education
+- Northeastern University, Master's in Computer Science
+  - Specialized in Software Engineering, Data Processing, and Machine Learning.
+
+## 📫 How to reach me:
+- Email: [priyesh.p@northeastern.edu](mailto:priyesh.p@northeastern.edu)
+- LinkedIn: [linkedin.com/in/fnupriyesh](https://www.linkedin.com/in/fnupriyesh)
+- Portfolio: [priyeshportfolio.info](https://priyeshportfolio.info)
 
 
 
 ## 📚 Education
-- **Masters in Computer Science, Northeastern University** (2021-2023)
-  **STOCK MARKET WEBSITE, Northeastern University**, https://stockmarket-trending.netlify.app/, GitHub	
--	Developed a full-stack stock market trend analysis web app using the MERN stack, integrating real-time financial data with interactive features such as admin console, views, comments, leveraging technologies like Node.js, Express.js, and React.js.
--	Implemented advanced web functionalities including JWT-based state and session management, Redis caching for optimized data retrieval, OAuth for secure third-party authentication, and data encryption, ensuring a secure and seamless end-user experience.
+- **Northeastern University**, Master of Science in Computer Science
+  - Focused on Software Engineering, Data Processing, and Machine Learning.
 
-**TUITER WEBSITE, Northeastern University**, React App (priyesh-a4.netlify.app)
--	Developed a social networking website, leveraging JavaScript, TypeScript, Bootstrap, React, and Mongo DB on a Node.js server, incorporating RESTful Webservices to serve HTTP requests, and enriched with features like boards, likes, tweets, and follow options.
--	Implemented user sessions and achieved 80% code coverage using Jest and React Testing Library for enhanced quality assurance.
-
-**PAC-MAN INSPIRED GAME, Northeastern University**, https://github.com/amarpriyesh/Pac-Man-Adventure-Game, (Java)
-•	Constructed an adventure game using MVC principles and object-oriented design patterns to make the gameplay realistic.
-•	Tested project modules using a JUnit 4 test suite, achieving 90% coverage. Implemented the game's view using Java Swing library.
-
-**PORTFOLIO**, https://priyeshportfolio.info, (Next.js, Tailwind, Figma)
-•	Crafted a responsive website using Next.js and Tailwind CSS, with dark mode, SSL/TLS security, AWS EC2 instances, and integrated mail server, ensuring broad compatibility and featuring a user-centric design adhering to HCI principles.
 
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpriyesh&show_icons=true)
 
 ## 📫 How to reach me:
-- Email: priyesh.p@gmail.com
-- LinkedIn: [linkedin.com/in/fnupriyesh](https://linkedin.com/in/fnupriyesh)
-
-## 📄 [Check out my Resume](URL to your resume)
-
-<!-- Optional sections -->
+- Email: [priyesh.p@northeastern.edu](mailto:priyesh.p@northeastern.edu)
+- LinkedIn: [linkedin.com/in/fnupriyesh](https://www.linkedin.com/in/fnupriyesh)
+- Portfolio: [priyeshportfolio.info](https://priyeshportfolio.info)
 
 
-## 💬 Let's Talk!
-- Interested in collaborating on open source projects related to Java, Python, JavaScript, React, Node.
+
+
+
+## ✨ Featured Projects
+
+### Stock Market Website
+- **Description**: Full-stack stock market trend analysis platform using the MERN stack with real-time financial data integration. Features interactive elements like commenting and liking posts.
+- **Technologies**: Node.js, Express.js, React.js, MongoDB, JWT, Redis, OAuth.
+- **Link**: [Stock Market Website](https://stockmarket-trending.netlify.app/)
+
+### Pac-Man Inspired Game
+- **Description**: An adventure game developed using MVC principles, object-oriented design, and Java Swing. Features multithreading for realistic gameplay and extensive testing with JUnit.
+- **Technologies**: Java, Java Swing, JUnit.
+- **Link**: [Pac-Man Inspired Game](https://github.com/amarpriyesh/Pac-Man-Adventure-Game)
+
+### Smart Saver Android App
+- **Description**: Android app that helps parents monitor their child's chores and rewards. Incorporates GPS, camera, and other Android features for a rich user interface.
+- **Technologies**: Android, Java, Kotlin.
+- **Link**: [Smart Saver](https://github.com/amarpriyesh/SmartSavr)
+
+### Tuiter Website
+- **Description**: Social networking website built with JavaScript, TypeScript, Bootstrap, React, and MongoDB. Implements RESTful Web Services and features like user sessions, tweets, and likes.
+- **Technologies**: JavaScript, TypeScript, React, MongoDB, Node.js.
+- **Link**: [Tuiter Website](https://priyesh-a4.netlify.app)
+
+### Portfolio Website
+- **Description**: Responsive personal portfolio website designed with Next.js and Tailwind CSS. Features include dark mode, secure mail server integration, and user-centric design.
+- **Technologies**: Next.js, Tailwind CSS, Figma, AWS.
+- **Link**: [Portfolio](https://priyeshportfolio.info)
+
 
